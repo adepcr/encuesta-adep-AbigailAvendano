@@ -1,19 +1,26 @@
-# Publicar la encuesta (GitHub Pages)
+# Publicar la encuesta (Vercel)
 
-La encuesta se publica con **GitHub Pages**, desde este repositorio de la organización de ADEP.
+La encuesta se publica en **Vercel**, desde este repositorio de la organización de ADEP.
 No necesita llaves, contraseñas ni Firebase.
 
-- Encuesta: **https://adepcr.github.io/encuesta-adep/**
-- Resultados (solo organizadores, con clave): **https://adepcr.github.io/encuesta-adep/resultados.html**
+- Encuesta: **https://encuesta-adep.vercel.app/**
+- Resultados (solo organizadores, con clave): **https://encuesta-adep.vercel.app/resultados.html**
+
+Cada cambio que se sube a `main` se publica solo en Vercel (tarda menos de un minuto).
+El proyecto en Vercel se llama `encuesta-adep` (Framework Preset: *Other*, sin variables ni configuración).
 
 Las respuestas no dependen de la página: siguen llegando a la hoja de Google de la cuenta de Gmail de ADEP
 (vea [INSTALAR-BACKEND.md](INSTALAR-BACKEND.md)).
 
-## Activar la página (una sola vez)
+## Respaldo: GitHub Pages
+
+También se puede publicar con GitHub Pages en https://adepcr.github.io/encuesta-adep/ (respaldo).
+
+### Activar GitHub Pages (una sola vez)
 
 1. Abra <https://github.com/adepcr/encuesta-adep-AbigailAvendano/settings/pages>.
 2. **Source:** *Deploy from a branch*. **Branch:** `main` y carpeta `/ (root)`. Presione **Save**.
-3. En uno o dos minutos la encuesta queda en la dirección de arriba.
+3. En uno o dos minutos la encuesta queda en la dirección de respaldo.
 
 Desde entonces, cada cambio que se sube a `main` se publica solo (tarda uno o dos minutos).
 
