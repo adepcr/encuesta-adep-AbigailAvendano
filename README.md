@@ -7,12 +7,6 @@ Es un sitio estático (HTML, CSS y JavaScript, sin dependencias) listo para abri
 - **Repositorio oficial:** https://github.com/adepcr/encuesta-adep-AbigailAvendano (organización de ADEP)
 - Se publica sola con GitHub Pages en cada cambio en `main` (ver [PUBLICAR.md](PUBLICAR.md)).
 
-## Aplicaciones de ADEP
-
-- **Página Carnet digital:** https://carnet-adep.vercel.app
-- **Sistema de votación:** https://adep-vota.web.app
-- **Aplicación Archivo general:** https://inventario-archivo-docs.vercel.app/
-
 ## Características
 
 - Portada llamativa y formulario por secciones (5 pasos) con barra de progreso.
