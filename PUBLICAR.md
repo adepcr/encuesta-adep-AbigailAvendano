@@ -11,7 +11,7 @@ Las respuestas no dependen de la página: siguen llegando a la hoja de Google de
 
 ## Activar la página (una sola vez)
 
-1. Abra <https://github.com/adepcr/encuesta-adep/settings/pages>.
+1. Abra <https://github.com/adepcr/encuesta-adep-AbigailAvendano/settings/pages>.
 2. **Source:** *Deploy from a branch*. **Branch:** `main` y carpeta `/ (root)`. Presione **Save**.
 3. En uno o dos minutos la encuesta queda en la dirección de arriba.
 
