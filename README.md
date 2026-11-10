@@ -4,7 +4,7 @@ Sitio web de la **Encuesta de servicio a la persona asociada** de la Asociación
 Es un sitio estático (HTML, CSS y JavaScript, sin dependencias) listo para abrir en Visual Studio Code y publicar en GitHub Pages.
 
 - **Encuesta:** https://adepcr.github.io/encuesta-adep/ · **Resultados:** https://adepcr.github.io/encuesta-adep/resultados.html
-- **Repositorio oficial:** https://github.com/adepcr/encuesta-adep (organización de ADEP)
+- **Repositorio oficial:** https://github.com/adepcr/encuesta-adep-AbigailAvendano (organización de ADEP)
 - Se publica sola con GitHub Pages en cada cambio en `main` (ver [PUBLICAR.md](PUBLICAR.md)).
 
 ## Aplicaciones de ADEP
