@@ -1,11 +1,11 @@
 # Encuesta de Servicio — ADEP
 
 Sitio web de la **Encuesta de servicio a la persona asociada** de la Asociación de Educadores Pensionados (ADEP).
-Es un sitio estático (HTML, CSS y JavaScript, sin dependencias) listo para abrir en Visual Studio Code y publicar en GitHub Pages.
+Es un sitio estático (HTML, CSS y JavaScript, sin dependencias) listo para abrir en Visual Studio Code y publicar en Vercel.
 
-- **Encuesta:** https://adepcr.github.io/encuesta-adep/ · **Resultados:** https://adepcr.github.io/encuesta-adep/resultados.html
+- **Encuesta:** https://encuesta-adep.vercel.app/ · **Resultados:** https://encuesta-adep.vercel.app/resultados.html
 - **Repositorio oficial:** https://github.com/adepcr/encuesta-adep-AbigailAvendano (organización de ADEP)
-- Se publica sola con GitHub Pages en cada cambio en `main` (ver [PUBLICAR.md](PUBLICAR.md)).
+- Se publica sola en Vercel en cada cambio en `main` (ver [PUBLICAR.md](PUBLICAR.md)).
 
 ## Características
 
@@ -99,8 +99,9 @@ desde la encuesta; compártala solo con quien deba verla.
 
 ## Dónde está publicada
 
-- Encuesta: **https://adepcr.github.io/encuesta-adep/**
-- Resultados (solo organizadores, con clave): **https://adepcr.github.io/encuesta-adep/resultados.html**
+- Encuesta: **https://encuesta-adep.vercel.app/**
+- Resultados (solo organizadores, con clave): **https://encuesta-adep.vercel.app/resultados.html**
+- Respaldo (GitHub Pages): https://adepcr.github.io/encuesta-adep/
 
-Cada cambio que se sube a `main` se publica solo con GitHub Pages. Vea **[PUBLICAR.md](PUBLICAR.md)**.
+Cada cambio que se sube a `main` se publica solo en Vercel. Vea **[PUBLICAR.md](PUBLICAR.md)**.
 La dirección anterior, `adep-encuesta.web.app` (Firebase), quedó desactivada el 4 de noviembre de 2026.
